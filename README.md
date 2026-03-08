@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/leoautomates/leoautomates/main/banner.png" alt="leoautomates banner" width="900" />
+  <img src="https://raw.githubusercontent.com/leoautomates/leoautomates/main/profile_banner.png" alt="leoautomates banner" width="900" />
 </p>
 
 <h1 align="center">Leonardo Fai</h1>
